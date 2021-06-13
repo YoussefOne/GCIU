@@ -1,0 +1,30 @@
+About
+___________________________________________________________________________________________________________________
+
+GET INSTAGRAM COOL USERNAME
+it's a tool to find you a cool usernames not used on instagram
+( the username it's just not used , maybe it's not working)
+
+
+setup 
+____________________________________________________________________________________________________________________
+
+Summary :
+	you just have to download python programming language
+	and run the main.py python file
+
+Windows 10 :
+	run Windwos-10.cmd file as administrator then microsoft store
+	wil applicaton window will pop to you on python install page
+	install python from the microsoft store
+	and run main.py file with double click or "python3 main.py"
+
+Another Windows :
+	download python from "www.python.org"
+	and run main.py file with double click
+	( search for installation because maybe it's not going to work because of your installation )
+
+Linux ( Debian ) :
+	"chmod +x ./Linux-Debian.sh"
+	"sudo ./Linux-Debian.sh"
+	"python3 main.py"
