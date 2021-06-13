@@ -6,7 +6,7 @@ it's a tool to find you a cool usernames not used on instagram
 ( the username it's just not used , maybe it's not working)
 
 
-setup 
+run it
 ____________________________________________________________________________________________________________________
 
 Summary :
