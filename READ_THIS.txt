@@ -19,7 +19,7 @@ Windows 10 :
 	install python from the microsoft store
 	and run main.py file with double click or "python3 main.py"
 
-Another Windows :
+Other Windows :
 	download python from "www.python.org"
 	and run main.py file with double click
 	( search for installation because maybe it's not going to work because of your installation )
