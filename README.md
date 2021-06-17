@@ -1,3 +1,3 @@
 # GET COOL INSTAGRAM USERNAME
 [READ_THIS.txt](https://github.com/the-computer-mayor/GICU/blob/main/READ_THIS.txt "READ_THIS.txt")
-<p><img src="https://github.com/the-computer-mayor/GCIU/blob/By_the_computer_mayor/1.png"></p>
+<p><img src="https://github.com/the-computer-mayor/GCIU/blob/%3B)/1.png"></p>
